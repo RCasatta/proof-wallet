@@ -74,5 +74,5 @@ Subcommands:
 
 For more help, include a subcommand, e.g. `./proofwallet.py entropy --help`
 ```
-You have now installed all the software you need to demo Proof Wallet. See [usage](doc/usage.md) for documentation on how to use it.
+You have now installed all the software you need to demo Proof Wallet. See [usage](usage.md) for documentation on how to use it.
 
